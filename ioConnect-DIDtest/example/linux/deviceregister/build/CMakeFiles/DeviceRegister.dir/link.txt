@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/DeviceRegister.dir/main.c.o CMakeFiles/DeviceRegister.dir/pal/Linux/DeviceRegister/deviceregister.c.o -o DeviceRegister  -Wl,-rpath,/home/antoine/Documents/projets/Novanet/exampleIoTeX/JWKCreateTest/ioConnect/example/linux/deviceregister/build/core core/libioConnectCore.so -lmicrohttpd

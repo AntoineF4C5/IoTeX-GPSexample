@@ -1,0 +1,15 @@
+{
+  // Use IntelliSense to learn about possible attributes.
+  // Hover to view descriptions of existing attributes.
+  // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "cwd": "/home/antoine/Documents/projets/Novanet/exampleIoTeX/JWKCreateTest/ioConnect/",
+      "name": "C++ Launch (GDB)",
+      "type": "cppdbg",
+      "request": "launch",
+      "program": "/home/antoine/Documents/projets/Novanet/exampleIoTeX/JWKCreateTest/ioConnect/example/linux/deviceregister/build/DeviceRegister"
+    }
+  ]
+}
